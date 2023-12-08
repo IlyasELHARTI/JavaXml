@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompteBancaires>
+  <CompteBancaire>
+    <numCompte>1</numCompte>
+    <nomProprietaire>ILYAS</nomProprietaire>
+    <solde>111.0</solde>
+    <dateCreation>2018-12-20</dateCreation>
+    <typeCompte>COURANT</typeCompte>
+  </CompteBancaire>
+  <CompteBancaire>
+    <numCompte>2</numCompte>
+    <nomProprietaire>ILYAS</nomProprietaire>
+    <solde>200.0</solde>
+    <dateCreation>2017-11-13</dateCreation>
+    <typeCompte>EPARGNE</typeCompte>
+  </CompteBancaire>
+</CompteBancaires>
